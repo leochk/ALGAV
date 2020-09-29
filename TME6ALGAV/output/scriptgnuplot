@@ -1,0 +1,70 @@
+reset
+set term svg
+
+set yrange [0:0.1]
+set xlabel "instance"
+set ylabel "ms"
+set output "svg/timeRC.svg"
+plot "timeC.csv" lt rgb "red" title "ritter", "timeR.csv" lt rgb "blue" title "toussaint"
+set output "svg/timeC.svg"
+plot "timeC.csv" lt rgb "red" title "ritter"
+set output "svg/timeR.svg"
+plot "timeR.csv" lt rgb "blue" title "toussaint"
+
+
+reset
+set term svg
+
+set xtics 100000
+set yrange [0:5]
+set xlabel "instance"
+set ylabel "ms"
+set output "svg/randomTimeRC.svg"
+plot "randomTimeC.csv" lt rgb "red" title "ritter", "randomTimeR.csv" lt rgb "blue" title "toussaint"
+set output "svg/randomTimeC.svg"
+plot "randomTimeC.csv" lt rgb "red" title "ritter"
+set output "svg/randomTimeR.svg"
+plot "randomTimeR.csv" lt rgb "blue" title "toussaint"
+
+reset
+set term svg
+
+n=100 #number of intervals
+max=2 #max value
+min=1. #min value
+width=(max-min)/n #interval width
+#function used to map a value to the intervals
+hist(x,width)=width*floor(x/width)+width/2.0
+
+set xrange [min:max]
+set yrange [0:]
+#to put an empty boundary around the
+#data inside an autoscaled graph.
+set offset graph 0.05,0.05,0.05,0.0
+set xtics min,(max-min)/5,max
+set boxwidth width*0.9
+set style fill solid 0.5 #fillstyle
+set tics out nomirror
+set xlabel "quality"
+set ylabel "frequency"
+set style fill transparent pattern 4 bo
+
+#count and plot
+set output "svg/qualityRC.svg"
+plot "qualityC.csv" u (hist($2,width)):(1.0) smooth freq w boxes lc rgb "red" title "ritter", "qualityR.csv" u (hist($2,width)):(1.0) smooth freq w boxes lc rgb "blue" title "toussaint"
+set output "svg/qualityC.svg"
+plot "qualityC.csv" u (hist($2,width)):(1.0) smooth freq w boxes lc rgb "red" title "ritter"
+set output "svg/qualityR.svg"
+plot "qualityR.csv" u (hist($2,width)):(1.0) smooth freq w boxes lc rgb "blue" title "toussaint"
+
+
+
+
+
+
+
+
+
+
+
+

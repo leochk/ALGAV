@@ -1,0 +1,2228 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.10)  9 JAN 2020 21:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**RapportALGAV.tex
+(./RapportALGAV.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2018/02/04 v3.4b French support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count89
+)
+\l@acadian = a dialect from \language\l@french 
+\FB@nonchar=\count90
+Package babel Info: Making : an active character on input line 411.
+Package babel Info: Making ; an active character on input line 412.
+Package babel Info: Making ! an active character on input line 413.
+Package babel Info: Making ? an active character on input line 414.
+\FBguill@level=\count91
+\FB@everypar=\toks14
+\FB@Mht=\dimen104
+\mc@charclass=\count92
+\mc@charfam=\count93
+\mc@charslot=\count94
+\std@mcc=\count95
+\dec@mcc=\count96
+\c@FBcaption@count=\count97
+\listindentFB=\skip43
+\descindentFB=\skip44
+\labelwidthFB=\skip45
+\leftmarginFB=\skip46
+\parindentFFN=\dimen105
+\FBfnindent=\skip47
+))
+(/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen106
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count98
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count99
+\leftroot@=\count100
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count101
+\DOTSCASE@=\count102
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count103
+\c@MaxMatrixCols=\count104
+\dotsspace@=\muskip10
+\c@parentequation=\count105
+\dspbrk@lvl=\count106
+\tag@help=\toks19
+\row@=\count107
+\column@=\count108
+\maxfields@=\count109
+\andhelp@=\toks20
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks21
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count110
+\float@exts=\toks23
+\float@box=\box28
+\@float@everytoks=\toks24
+\@floatcapt=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks25
+\c@algorithm=\count111
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count112
+\c@ALG@rem=\count113
+\c@ALG@nested=\count114
+\ALG@tlm=\skip51
+\ALG@thistlm=\skip52
+\c@ALG@Lnr=\count115
+\c@ALG@blocknr=\count116
+\c@ALG@storecount=\count117
+\c@ALG@tmpcounter=\count118
+\ALG@tmplength=\skip53
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count119
+\calc@Bcount=\count120
+\calc@Adimen=\dimen117
+\calc@Bdimen=\dimen118
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count121
+\calc@Cskip=\skip56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
+Package: import 2009/03/23  v 5.1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/b/n on input line 32.
+
+(./RapportALGAV.aux)
+\openout1 = `RapportALGAV.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 39.
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Info: Redefining \degres on input line 39.
+LaTeX Info: Redefining \dots on input line 39.
+LaTeX Info: Redefining \up on input line 39.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count122
+\scratchdimen=\dimen119
+\scratchbox=\box30
+\nofMPsegments=\count123
+\nofMParguments=\count124
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count125
+\MPscratchDim=\dimen120
+\MPnumerator=\count126
+\makeMPintoPDFobject=\count127
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<su.png, id=1, 354.32375pt x 143.53625pt>
+File: su.png Graphic file (type png)
+<use su.png>
+Package pdftex.def Info: su.png  used on input line 46.
+(pdftex.def)             Requested size: 117.00119pt x 47.39557pt.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 62.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 62.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 62.
+
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 62.
+
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 62.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 62.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 62.
+LaTeX Font Info:    Try loading font information for U+msa on input line 62.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 62.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./su.png>]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 85.
+ [1]
+Chapitre 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--109
+
+ []
+
+[2
+
+]
+<ToussaintSchema.pdf, id=29, 213.95113pt x 157.7187pt>
+File: ToussaintSchema.pdf Graphic file (type pdf)
+<use ToussaintSchema.pdf>
+Package pdftex.def Info: ToussaintSchema.pdf  used on input line 110.
+(pdftex.def)             Requested size: 195.0pt x 143.75526pt.
+ (./qualityR.pdf_tex
+<qualityR.pdf, id=30, page=1, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 1>
+Package pdftex.def Info: qualityR.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=31, page=2, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 2>
+Package pdftex.def Info: qualityR.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=32, page=3, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 3>
+Package pdftex.def Info: qualityR.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=33, page=4, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 4>
+Package pdftex.def Info: qualityR.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=34, page=5, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 5>
+Package pdftex.def Info: qualityR.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=35, page=6, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 6>
+Package pdftex.def Info: qualityR.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=36, page=7, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 7>
+Package pdftex.def Info: qualityR.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=37, page=8, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 8>
+Package pdftex.def Info: qualityR.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=38, page=9, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 9>
+Package pdftex.def Info: qualityR.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=39, page=10, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 10>
+Package pdftex.def Info: qualityR.pdf , page10 used on input line 74.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=40, page=11, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 11>
+Package pdftex.def Info: qualityR.pdf , page11 used on input line 76.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=41, page=12, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 12>
+Package pdftex.def Info: qualityR.pdf , page12 used on input line 78.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=42, page=13, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 13>
+Package pdftex.def Info: qualityR.pdf , page13 used on input line 80.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=43, page=14, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 14>
+Package pdftex.def Info: qualityR.pdf , page14 used on input line 82.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=44, page=15, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 15>
+Package pdftex.def Info: qualityR.pdf , page15 used on input line 84.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=45, page=16, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 16>
+Package pdftex.def Info: qualityR.pdf , page16 used on input line 86.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=46, page=17, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 17>
+Package pdftex.def Info: qualityR.pdf , page17 used on input line 88.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=47, page=18, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 18>
+Package pdftex.def Info: qualityR.pdf , page18 used on input line 90.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityR.pdf, id=48, page=19, 451.6875pt x 361.35pt>
+File: qualityR.pdf Graphic file (type pdf)
+<use qualityR.pdf, page 19>
+Package pdftex.def Info: qualityR.pdf , page19 used on input line 94.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+)
+Overfull \hbox (19.95752pt too wide) in paragraph at lines 95--123
+[][] 
+ []
+
+(./timeR.pdf_tex
+<timeR.pdf, id=49, page=1, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 1>
+Package pdftex.def Info: timeR.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=50, page=2, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 2>
+Package pdftex.def Info: timeR.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=51, page=3, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 3>
+Package pdftex.def Info: timeR.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=52, page=4, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 4>
+Package pdftex.def Info: timeR.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=53, page=5, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 5>
+Package pdftex.def Info: timeR.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=54, page=6, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 6>
+Package pdftex.def Info: timeR.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=55, page=7, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 7>
+Package pdftex.def Info: timeR.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=56, page=8, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 8>
+Package pdftex.def Info: timeR.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=57, page=9, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 9>
+Package pdftex.def Info: timeR.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=58, page=10, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 10>
+Package pdftex.def Info: timeR.pdf , page10 used on input line 74.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=59, page=11, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 11>
+Package pdftex.def Info: timeR.pdf , page11 used on input line 76.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=60, page=12, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 12>
+Package pdftex.def Info: timeR.pdf , page12 used on input line 78.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=61, page=13, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 13>
+Package pdftex.def Info: timeR.pdf , page13 used on input line 80.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=62, page=14, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 14>
+Package pdftex.def Info: timeR.pdf , page14 used on input line 82.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=63, page=15, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 15>
+Package pdftex.def Info: timeR.pdf , page15 used on input line 84.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=64, page=16, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 16>
+Package pdftex.def Info: timeR.pdf , page16 used on input line 86.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=65, page=17, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 17>
+Package pdftex.def Info: timeR.pdf , page17 used on input line 88.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeR.pdf, id=66, page=18, 451.6875pt x 361.35pt>
+File: timeR.pdf Graphic file (type pdf)
+<use timeR.pdf, page 18>
+Package pdftex.def Info: timeR.pdf , page18 used on input line 92.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+)
+Overfull \hbox (25.17966pt too wide) in paragraph at lines 127--130
+[]  [] 
+ []
+
+[3 <./ToussaintSchema.pdf> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityR.pdf
+
+pdfTeX warning: pdflatex (file ./qualityR.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeR.pdf
+
+pdfTeX warning: pdflatex (file ./timeR.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+(./randomTimeR.pdf_tex
+<randomTimeR.pdf, id=221, page=1, 451.6875pt x 361.35pt>
+File: randomTimeR.pdf Graphic file (type pdf)
+<use randomTimeR.pdf, page 1>
+Package pdftex.def Info: randomTimeR.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeR.pdf, id=222, page=2, 451.6875pt x 361.35pt>
+File: randomTimeR.pdf Graphic file (type pdf)
+<use randomTimeR.pdf, page 2>
+Package pdftex.def Info: randomTimeR.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeR.pdf, id=223, page=3, 451.6875pt x 361.35pt>
+File: randomTimeR.pdf Graphic file (type pdf)
+<use randomTimeR.pdf, page 3>
+Package pdftex.def Info: randomTimeR.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeR.pdf, id=224, page=4, 451.6875pt x 361.35pt>
+File: randomTimeR.pdf Graphic file (type pdf)
+<use randomTimeR.pdf, page 4>
+Package pdftex.def Info: randomTimeR.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeR.pdf, id=225, page=5, 451.6875pt x 361.35pt>
+File: randomTimeR.pdf Graphic file (type pdf)
+<use randomTimeR.pdf, page 5>
+Package pdftex.def Info: randomTimeR.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeR.pdf, id=226, page=6, 451.6875pt x 361.35pt>
+File: randomTimeR.pdf Graphic file (type pdf)
+<use randomTimeR.pdf, page 6>
+Package pdftex.def Info: randomTimeR.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeR.pdf, id=227, page=7, 451.6875pt x 361.35pt>
+File: randomTimeR.pdf Graphic file (type pdf)
+<use randomTimeR.pdf, page 7>
+Package pdftex.def Info: randomTimeR.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeR.pdf, id=228, page=8, 451.6875pt x 361.35pt>
+File: randomTimeR.pdf Graphic file (type pdf)
+<use randomTimeR.pdf, page 8>
+Package pdftex.def Info: randomTimeR.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeR.pdf, id=229, page=9, 451.6875pt x 361.35pt>
+File: randomTimeR.pdf Graphic file (type pdf)
+<use randomTimeR.pdf, page 9>
+Package pdftex.def Info: randomTimeR.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeR.pdf, id=230, page=10, 451.6875pt x 361.35pt>
+File: randomTimeR.pdf Graphic file (type pdf)
+<use randomTimeR.pdf, page 10>
+Package pdftex.def Info: randomTimeR.pdf , page10 used on input line 74.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeR.pdf, id=231, page=11, 451.6875pt x 361.35pt>
+File: randomTimeR.pdf Graphic file (type pdf)
+<use randomTimeR.pdf, page 11>
+Package pdftex.def Info: randomTimeR.pdf , page11 used on input line 76.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeR.pdf, id=232, page=12, 451.6875pt x 361.35pt>
+File: randomTimeR.pdf Graphic file (type pdf)
+<use randomTimeR.pdf, page 12>
+Package pdftex.def Info: randomTimeR.pdf , page12 used on input line 78.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeR.pdf, id=233, page=13, 451.6875pt x 361.35pt>
+File: randomTimeR.pdf Graphic file (type pdf)
+<use randomTimeR.pdf, page 13>
+Package pdftex.def Info: randomTimeR.pdf , page13 used on input line 80.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeR.pdf, id=234, page=14, 451.6875pt x 361.35pt>
+File: randomTimeR.pdf Graphic file (type pdf)
+<use randomTimeR.pdf, page 14>
+Package pdftex.def Info: randomTimeR.pdf , page14 used on input line 84.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+)
+Overfull \hbox (19.95752pt too wide) in paragraph at lines 85--150
+[][] 
+ []
+
+[4 <./randomTimeR.pdf> <./randomTimeR.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeR.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeR.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeR.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeR.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeR.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeR.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeR.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeR.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeR.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeR.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeR.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeR.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeR.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeR.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeR.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeR.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeR.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeR.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeR.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeR.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeR.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeR.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeR.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeR.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeR.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+>]
+Chapitre 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+[5
+
+]
+<RitterSchema.pdf, id=244, 213.55121pt x 197.37605pt>
+File: RitterSchema.pdf Graphic file (type pdf)
+<use RitterSchema.pdf>
+Package pdftex.def Info: RitterSchema.pdf  used on input line 177.
+(pdftex.def)             Requested size: 195.0pt x 180.23288pt.
+ (./qualityC.pdf_tex
+<qualityC.pdf, id=245, page=1, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 1>
+Package pdftex.def Info: qualityC.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=246, page=2, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 2>
+Package pdftex.def Info: qualityC.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=247, page=3, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 3>
+Package pdftex.def Info: qualityC.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=248, page=4, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 4>
+Package pdftex.def Info: qualityC.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=249, page=5, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 5>
+Package pdftex.def Info: qualityC.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=250, page=6, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 6>
+Package pdftex.def Info: qualityC.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=251, page=7, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 7>
+Package pdftex.def Info: qualityC.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=252, page=8, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 8>
+Package pdftex.def Info: qualityC.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=253, page=9, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 9>
+Package pdftex.def Info: qualityC.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=254, page=10, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 10>
+Package pdftex.def Info: qualityC.pdf , page10 used on input line 74.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=255, page=11, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 11>
+Package pdftex.def Info: qualityC.pdf , page11 used on input line 76.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=256, page=12, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 12>
+Package pdftex.def Info: qualityC.pdf , page12 used on input line 78.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=257, page=13, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 13>
+Package pdftex.def Info: qualityC.pdf , page13 used on input line 80.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=258, page=14, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 14>
+Package pdftex.def Info: qualityC.pdf , page14 used on input line 82.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=259, page=15, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 15>
+Package pdftex.def Info: qualityC.pdf , page15 used on input line 84.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityC.pdf, id=260, page=16, 451.6875pt x 361.35pt>
+File: qualityC.pdf Graphic file (type pdf)
+<use qualityC.pdf, page 16>
+Package pdftex.def Info: qualityC.pdf , page16 used on input line 88.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+)
+Overfull \hbox (19.95752pt too wide) in paragraph at lines 89--188
+[][] 
+ []
+
+(./timeC.pdf_tex
+<timeC.pdf, id=261, page=1, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 1>
+Package pdftex.def Info: timeC.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=262, page=2, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 2>
+Package pdftex.def Info: timeC.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=263, page=3, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 3>
+Package pdftex.def Info: timeC.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=264, page=4, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 4>
+Package pdftex.def Info: timeC.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=265, page=5, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 5>
+Package pdftex.def Info: timeC.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=266, page=6, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 6>
+Package pdftex.def Info: timeC.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=267, page=7, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 7>
+Package pdftex.def Info: timeC.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=268, page=8, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 8>
+Package pdftex.def Info: timeC.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=269, page=9, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 9>
+Package pdftex.def Info: timeC.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=270, page=10, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 10>
+Package pdftex.def Info: timeC.pdf , page10 used on input line 74.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=271, page=11, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 11>
+Package pdftex.def Info: timeC.pdf , page11 used on input line 76.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=272, page=12, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 12>
+Package pdftex.def Info: timeC.pdf , page12 used on input line 78.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=273, page=13, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 13>
+Package pdftex.def Info: timeC.pdf , page13 used on input line 80.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=274, page=14, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 14>
+Package pdftex.def Info: timeC.pdf , page14 used on input line 82.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=275, page=15, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 15>
+Package pdftex.def Info: timeC.pdf , page15 used on input line 84.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=276, page=16, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 16>
+Package pdftex.def Info: timeC.pdf , page16 used on input line 86.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=277, page=17, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 17>
+Package pdftex.def Info: timeC.pdf , page17 used on input line 88.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeC.pdf, id=278, page=18, 451.6875pt x 361.35pt>
+File: timeC.pdf Graphic file (type pdf)
+<use timeC.pdf, page 18>
+Package pdftex.def Info: timeC.pdf , page18 used on input line 92.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+)
+Overfull \hbox (25.17966pt too wide) in paragraph at lines 192--195
+[]  [] 
+ []
+
+[6 <./RitterSchema.pdf> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./qualityC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityC.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+> <./timeC.pdf
+
+pdfTeX warning: pdflatex (file ./timeC.pdf): PDF inclusion: multiple pdfs with 
+page group included in a single page
+>] (./randomTimeC.pdf_tex
+<randomTimeC.pdf, id=524, page=1, 451.6875pt x 361.35pt>
+File: randomTimeC.pdf Graphic file (type pdf)
+<use randomTimeC.pdf, page 1>
+Package pdftex.def Info: randomTimeC.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeC.pdf, id=525, page=2, 451.6875pt x 361.35pt>
+File: randomTimeC.pdf Graphic file (type pdf)
+<use randomTimeC.pdf, page 2>
+Package pdftex.def Info: randomTimeC.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeC.pdf, id=526, page=3, 451.6875pt x 361.35pt>
+File: randomTimeC.pdf Graphic file (type pdf)
+<use randomTimeC.pdf, page 3>
+Package pdftex.def Info: randomTimeC.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeC.pdf, id=527, page=4, 451.6875pt x 361.35pt>
+File: randomTimeC.pdf Graphic file (type pdf)
+<use randomTimeC.pdf, page 4>
+Package pdftex.def Info: randomTimeC.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeC.pdf, id=528, page=5, 451.6875pt x 361.35pt>
+File: randomTimeC.pdf Graphic file (type pdf)
+<use randomTimeC.pdf, page 5>
+Package pdftex.def Info: randomTimeC.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeC.pdf, id=529, page=6, 451.6875pt x 361.35pt>
+File: randomTimeC.pdf Graphic file (type pdf)
+<use randomTimeC.pdf, page 6>
+Package pdftex.def Info: randomTimeC.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeC.pdf, id=530, page=7, 451.6875pt x 361.35pt>
+File: randomTimeC.pdf Graphic file (type pdf)
+<use randomTimeC.pdf, page 7>
+Package pdftex.def Info: randomTimeC.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeC.pdf, id=531, page=8, 451.6875pt x 361.35pt>
+File: randomTimeC.pdf Graphic file (type pdf)
+<use randomTimeC.pdf, page 8>
+Package pdftex.def Info: randomTimeC.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeC.pdf, id=532, page=9, 451.6875pt x 361.35pt>
+File: randomTimeC.pdf Graphic file (type pdf)
+<use randomTimeC.pdf, page 9>
+Package pdftex.def Info: randomTimeC.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeC.pdf, id=533, page=10, 451.6875pt x 361.35pt>
+File: randomTimeC.pdf Graphic file (type pdf)
+<use randomTimeC.pdf, page 10>
+Package pdftex.def Info: randomTimeC.pdf , page10 used on input line 74.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeC.pdf, id=534, page=11, 451.6875pt x 361.35pt>
+File: randomTimeC.pdf Graphic file (type pdf)
+<use randomTimeC.pdf, page 11>
+Package pdftex.def Info: randomTimeC.pdf , page11 used on input line 76.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeC.pdf, id=535, page=12, 451.6875pt x 361.35pt>
+File: randomTimeC.pdf Graphic file (type pdf)
+<use randomTimeC.pdf, page 12>
+Package pdftex.def Info: randomTimeC.pdf , page12 used on input line 78.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeC.pdf, id=536, page=13, 451.6875pt x 361.35pt>
+File: randomTimeC.pdf Graphic file (type pdf)
+<use randomTimeC.pdf, page 13>
+Package pdftex.def Info: randomTimeC.pdf , page13 used on input line 80.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeC.pdf, id=537, page=14, 451.6875pt x 361.35pt>
+File: randomTimeC.pdf Graphic file (type pdf)
+<use randomTimeC.pdf, page 14>
+Package pdftex.def Info: randomTimeC.pdf , page14 used on input line 84.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+)
+Overfull \hbox (19.95752pt too wide) in paragraph at lines 85--210
+[][] 
+ []
+
+[7 <./randomTimeC.pdf> <./randomTimeC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeC.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeC.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeC.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeC.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeC.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeC.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeC.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeC.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeC.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeC.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeC.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeC.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+> <./randomTimeC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeC.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+>]
+Chapitre 3.
+(./qualityRC.pdf_tex
+<qualityRC.pdf, id=543, page=1, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 1>
+Package pdftex.def Info: qualityRC.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=544, page=2, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 2>
+Package pdftex.def Info: qualityRC.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=545, page=3, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 3>
+Package pdftex.def Info: qualityRC.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=546, page=4, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 4>
+Package pdftex.def Info: qualityRC.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=547, page=5, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 5>
+Package pdftex.def Info: qualityRC.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=548, page=6, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 6>
+Package pdftex.def Info: qualityRC.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=549, page=7, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 7>
+Package pdftex.def Info: qualityRC.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=550, page=8, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 8>
+Package pdftex.def Info: qualityRC.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=551, page=9, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 9>
+Package pdftex.def Info: qualityRC.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=552, page=10, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 10>
+Package pdftex.def Info: qualityRC.pdf , page10 used on input line 74.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=553, page=11, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 11>
+Package pdftex.def Info: qualityRC.pdf , page11 used on input line 76.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=554, page=12, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 12>
+Package pdftex.def Info: qualityRC.pdf , page12 used on input line 78.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=555, page=13, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 13>
+Package pdftex.def Info: qualityRC.pdf , page13 used on input line 80.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=556, page=14, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 14>
+Package pdftex.def Info: qualityRC.pdf , page14 used on input line 82.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=557, page=15, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 15>
+Package pdftex.def Info: qualityRC.pdf , page15 used on input line 84.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=558, page=16, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 16>
+Package pdftex.def Info: qualityRC.pdf , page16 used on input line 86.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=559, page=17, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 17>
+Package pdftex.def Info: qualityRC.pdf , page17 used on input line 88.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=560, page=18, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 18>
+Package pdftex.def Info: qualityRC.pdf , page18 used on input line 90.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=561, page=19, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 19>
+Package pdftex.def Info: qualityRC.pdf , page19 used on input line 94.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<qualityRC.pdf, id=562, page=20, 451.6875pt x 361.35pt>
+File: qualityRC.pdf Graphic file (type pdf)
+<use qualityRC.pdf, page 20>
+Package pdftex.def Info: qualityRC.pdf , page20 used on input line 96.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+)
+Overfull \hbox (19.95752pt too wide) in paragraph at lines 97--225
+[][] 
+ []
+
+(./timeRC.pdf_tex
+<timeRC.pdf, id=563, page=1, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 1>
+Package pdftex.def Info: timeRC.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=564, page=2, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 2>
+Package pdftex.def Info: timeRC.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=565, page=3, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 3>
+Package pdftex.def Info: timeRC.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=566, page=4, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 4>
+Package pdftex.def Info: timeRC.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=567, page=5, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 5>
+Package pdftex.def Info: timeRC.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=568, page=6, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 6>
+Package pdftex.def Info: timeRC.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=569, page=7, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 7>
+Package pdftex.def Info: timeRC.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=570, page=8, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 8>
+Package pdftex.def Info: timeRC.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=571, page=9, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 9>
+Package pdftex.def Info: timeRC.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=572, page=10, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 10>
+Package pdftex.def Info: timeRC.pdf , page10 used on input line 74.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=573, page=11, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 11>
+Package pdftex.def Info: timeRC.pdf , page11 used on input line 76.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=574, page=12, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 12>
+Package pdftex.def Info: timeRC.pdf , page12 used on input line 78.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=575, page=13, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 13>
+Package pdftex.def Info: timeRC.pdf , page13 used on input line 80.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=576, page=14, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 14>
+Package pdftex.def Info: timeRC.pdf , page14 used on input line 82.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=577, page=15, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 15>
+Package pdftex.def Info: timeRC.pdf , page15 used on input line 84.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=578, page=16, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 16>
+Package pdftex.def Info: timeRC.pdf , page16 used on input line 86.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=579, page=17, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 17>
+Package pdftex.def Info: timeRC.pdf , page17 used on input line 88.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=580, page=18, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 18>
+Package pdftex.def Info: timeRC.pdf , page18 used on input line 92.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<timeRC.pdf, id=581, page=19, 451.6875pt x 361.35pt>
+File: timeRC.pdf Graphic file (type pdf)
+<use timeRC.pdf, page 19>
+Package pdftex.def Info: timeRC.pdf , page19 used on input line 94.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+)
+Overfull \hbox (25.17966pt too wide) in paragraph at lines 229--232
+[]  [] 
+ []
+
+[8
+
+ <./qualityRC.pdf> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./qualityRC.pdf
+
+pdfTeX warning: pdflatex (file ./qualityRC.pdf): PDF inclusion: multiple pdfs w
+ith page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+> <./timeRC.pdf
+
+pdfTeX warning: pdflatex (file ./timeRC.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+>]
+<comparaison.pdf, id=935, 602.25pt x 301.125pt>
+File: comparaison.pdf Graphic file (type pdf)
+<use comparaison.pdf>
+Package pdftex.def Info: comparaison.pdf  used on input line 241.
+(pdftex.def)             Requested size: 390.0pt x 195.00754pt.
+ (./randomTimeRC.pdf_tex
+<randomTimeRC.pdf, id=936, page=1, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 1>
+Package pdftex.def Info: randomTimeRC.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeRC.pdf, id=937, page=2, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 2>
+Package pdftex.def Info: randomTimeRC.pdf , page2 used on input line 58.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeRC.pdf, id=938, page=3, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 3>
+Package pdftex.def Info: randomTimeRC.pdf , page3 used on input line 60.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeRC.pdf, id=939, page=4, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 4>
+Package pdftex.def Info: randomTimeRC.pdf , page4 used on input line 62.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeRC.pdf, id=940, page=5, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 5>
+Package pdftex.def Info: randomTimeRC.pdf , page5 used on input line 64.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeRC.pdf, id=941, page=6, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 6>
+Package pdftex.def Info: randomTimeRC.pdf , page6 used on input line 66.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeRC.pdf, id=942, page=7, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 7>
+Package pdftex.def Info: randomTimeRC.pdf , page7 used on input line 68.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeRC.pdf, id=943, page=8, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 8>
+Package pdftex.def Info: randomTimeRC.pdf , page8 used on input line 70.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeRC.pdf, id=944, page=9, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 9>
+Package pdftex.def Info: randomTimeRC.pdf , page9 used on input line 72.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeRC.pdf, id=945, page=10, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 10>
+Package pdftex.def Info: randomTimeRC.pdf , page10 used on input line 74.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeRC.pdf, id=946, page=11, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 11>
+Package pdftex.def Info: randomTimeRC.pdf , page11 used on input line 76.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeRC.pdf, id=947, page=12, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 12>
+Package pdftex.def Info: randomTimeRC.pdf , page12 used on input line 78.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeRC.pdf, id=948, page=13, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 13>
+Package pdftex.def Info: randomTimeRC.pdf , page13 used on input line 80.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeRC.pdf, id=949, page=14, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 14>
+Package pdftex.def Info: randomTimeRC.pdf , page14 used on input line 84.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+<randomTimeRC.pdf, id=950, page=15, 451.6875pt x 361.35pt>
+File: randomTimeRC.pdf Graphic file (type pdf)
+<use randomTimeRC.pdf, page 15>
+Package pdftex.def Info: randomTimeRC.pdf , page15 used on input line 86.
+(pdftex.def)             Requested size: 203.258pt x 162.61151pt.
+)
+Overfull \hbox (19.95752pt too wide) in paragraph at lines 87--256
+[][] 
+ []
+
+[9 <./comparaison.pdf>] [10 <./randomTimeRC.pdf> <./randomTimeRC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeRC.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./randomTimeRC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeRC.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./randomTimeRC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeRC.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./randomTimeRC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeRC.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./randomTimeRC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeRC.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./randomTimeRC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeRC.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./randomTimeRC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeRC.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./randomTimeRC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeRC.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./randomTimeRC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeRC.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./randomTimeRC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeRC.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./randomTimeRC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeRC.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./randomTimeRC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeRC.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./randomTimeRC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeRC.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./randomTimeRC.pdf
+
+pdfTeX warning: pdflatex (file ./randomTimeRC.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+>]
+Chapitre 4.
+[11
+
+] (./RapportALGAV.aux) ) 
+Here is how much of TeX's memory you used:
+ 5901 strings out of 492982
+ 85367 string characters out of 6134895
+ 150152 words of memory out of 5000000
+ 9304 multiletter control sequences out of 15000+600000
+ 75961 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,17n,35p,733b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/sh
+are/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm
+/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts
+/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb
+></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/typ
+e1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr
+/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/publ
+ic/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/t
+exmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
+i10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmsy10.pfb>
+Output written on RapportALGAV.pdf (12 pages, 1276668 bytes).
+PDF statistics:
+ 1035 PDF objects out of 1200 (max. 8388607)
+ 542 compressed objects within 6 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 786 words of extra memory for PDF output out of 10000 (max. 10000000)
+
